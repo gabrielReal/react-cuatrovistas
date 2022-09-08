@@ -1,0 +1,56 @@
+{
+  "projects": [
+    {
+      "name": "Argentina Virtual Tours",
+      "type": "Landing Page",
+      "web": "www.argentinavirtualtours.com",
+      "link": "http://argentinavirtualtours.com/",
+      "description": "Desarrollo Front-end",
+      "description2" : "HTML, CSS3 y Javascript",
+      "image" : "../assets/avt-boton.jpg",
+      "slide01": "../assets/avt-01.jpg",
+      "slide02": "../assets/avt-02.jpg"
+    },
+    {
+      "name": "Argentina Virtual Tours",
+      "type": "Landing Page",
+      "web": "www.argentinavirtualtours.com",
+      "link": "http://argentinavirtualtours.com/",
+      "description": "Desarrollo Front-end",
+      "description2" : "HTML, CSS3 y Javascript",
+      "image" : "../assets/avt-boton.jpg",
+      "slide01": "../assets/avt-01.jpg",
+      "slide02": "../assets/avt-02.jpg"
+    },{
+      "name": "Argentina Virtual Tours",
+      "type": "Landing Page",
+      "web": "www.argentinavirtualtours.com",
+      "link": "http://argentinavirtualtours.com/",
+      "description": "Desarrollo Front-end",
+      "description2" : "HTML, CSS3 y Javascript",
+      "image" : "../assets/avt-boton.jpg",
+      "slide01": "../assets/avt-01.jpg",
+      "slide02": "../assets/avt-02.jpg"
+    },{
+      "name": "Argentina Virtual Tours",
+      "type": "Landing Page",
+      "web": "www.argentinavirtualtours.com",
+      "link": "http://argentinavirtualtours.com/",
+      "description": "Desarrollo Front-end",
+      "description2" : "HTML, CSS3 y Javascript",
+      "image" : "../assets/avt-boton.jpg",
+      "slide01": "../assets/avt-01.jpg",
+      "slide02": "../assets/avt-02.jpg"
+    },{
+      "name": "Argentina Virtual Tours",
+      "type": "Landing Page",
+      "web": "www.argentinavirtualtours.com",
+      "link": "http://argentinavirtualtours.com/",
+      "description": "Desarrollo Front-end",
+      "description2" : "HTML, CSS3 y Javascript",
+      "image" : "../assets/avt-boton.jpg",
+      "slide01": "../assets/avt-01.jpg",
+      "slide02": "../assets/avt-02.jpg"
+    }
+  ]
+}
